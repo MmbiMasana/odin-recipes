@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+#ingredients {
+    margin: auto;
+    border: 3px solid rgba(111, 0, 255, 0.651);
+    border-radius: 40px;
+}
+
+
+#steps {
+    margin: auto;
+    border: 3px solid rgba(111, 0, 255, 0.651);
+    border-radius: 40px;
+
+}
